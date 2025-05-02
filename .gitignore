@@ -1,0 +1,15 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore dataset
+blackjack_simulator_subset_5m.csv
+
+# Ignore large trained model files as you can generate them when you run the notebook
+*.pkl
+
+# Ignore Python cache and Jupyter checkpoints
+__pycache__/
+.ipynb_checkpoints/
+
+# Optional: ignore system files
+.DS_Store
