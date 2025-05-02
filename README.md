@@ -96,8 +96,8 @@ source .venv/bin/activate   # Windows: .venv\Scripts\activate
 # 3 Install Python dependencies
 pip install -r requirements.txt
 
-# 4 Download the dataset (Google Drive link coming soon)
-#    Place it next to the notebook, e.g. data/blackjack_simulator_subset_5m.csv
+# 4 Download the dataset from Kaggel
+# URL: https://www.kaggle.com/datasets/dennisho/blackjack-hands?resource=download
 
 # 5 Launch Jupyter Lab / Notebook
 jupyter lab   # or  jupyter notebook
